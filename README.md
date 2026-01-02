@@ -8,16 +8,16 @@
 </p>
 
 # About me
-I'm a computer science & statistic student who is passionate about solving problems by writing code, create model, automating stuff, and building software.
+I'm a computer science & statistics student who is passionate about solving problems by writing code, create model, automating stuff, and building software.
 
 - 🔭 I’m currently a CS&Stat student at Unversity of Illinois Urbana Champign.
 - 📚 I’m currently learning  backend web development and also AI agent development using SpringAI.
-- 👯 I’m looking for a software development internship.
+- 👯 I’m looking for a software development engineer internship.
 - 📫 Reach me here:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toyiyu1030@gmail.com)](mailto:toyiyu1030@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yiyu-chen-here/)](https://www.linkedin.com/in/yiyu-chen-here/)
 
-# Teck Stack
+# Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
