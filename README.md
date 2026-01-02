@@ -29,6 +29,13 @@ I'm a computer science & statistic student who is passionate about solving probl
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonChen7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonChen7/LeonChen7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonChen7/LeonChen7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonChen7/LeonChen7/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 <div align="center">
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LeonChen7)
