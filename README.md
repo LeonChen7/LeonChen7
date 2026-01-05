@@ -58,6 +58,8 @@ I'm a computer science & statistics student who is passionate about solving prob
 
 </div>
 
+![GitHub Stats](github-readme-stats.vercel.app)
+
 
 
 
