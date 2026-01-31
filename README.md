@@ -4,36 +4,45 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amarna&size=40&duration=3000&pause=700&color=858CF7&center=true&vCenter=true&width=700&height=100&lines=Hi!;I'm+Yiyu(Leon)+Chen;CS%26Stat+@UIUC;Interested+in+BackEnd%2FML%2FAI+Agent;Currently+Looking+for+Internship" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amarna&size=40&duration=3000&pause=700&color=858CF7&center=true&vCenter=true&width=700&height=100&lines=Hi!;I'm+Yiyu(Leon)+Chen;CS%26Stat+@UIUC;Interested+in+BackEnd%2FML%2FAI+Agent;Looking+for+Research+Oppotunity" alt="Typing SVG" /></a>
 </p>
 
 # 💻 About me
-I'm a computer science & statistics student who is passionate about solving problems by writing code, creating model, automating stuff, and building software.
+I'm a statistics (transferring to CS&STAT) student who is passionate about solving problems by writing code, creating model, automating stuff, and building software.
 
-- 🎓 I’m currently a CS&Stat student at Unversity of Illinois Urbana Champign.
-- 🎯 I’m currently learning  backend web development and also AI agent development using SpringAI.
-- 🤝  I’m looking for a software development engineer internship.
+- 🎓 I’m a sophomore at Unversity of Illinois Urbana Champign.
+- 🎯 I’m currently learning ML/DL/AI agent 
+- 🤝  I’m looking for relevent research/internship oppturnity in summer 2026/2027.
 
 # 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Backend FrameWork
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=Jupyter&logoColor=white)
-
-# 📈 GitHub Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonChen7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+# Github Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonChen7/LeonChen7/output/github-contribution-grid-snake-dark.svg">
