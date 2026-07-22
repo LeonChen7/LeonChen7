@@ -4,13 +4,12 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amarna&size=40&duration=3000&pause=700&color=858CF7&center=true&vCenter=true&width=700&height=100&lines=Hi!;I'm+Yiyu(Leon)+Chen;Stat+@UIUC" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amarna&size=40&duration=3000&pause=700&color=858CF7&center=true&vCenter=true&width=700&height=100&lines=Hi+there!;" alt="Typing SVG" /></a>
 </p>
 
-# 💻 About me
-I'm a statistics (transferring to CS&STAT) student who is passionate about solving problems by writing code, creating model, automating stuff, and building software.
+# About me
+I'm a CS&Stat student who is passionate about solving problems by writing code, creating model and automating stuff.
 
-# Github Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonChen7/LeonChen7/output/github-contribution-grid-snake-dark.svg">
