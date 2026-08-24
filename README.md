@@ -8,7 +8,7 @@
 </p>
 
 # About me
-I'm a CS&Stat student who is passionate about solving problems by writing code, creating model and automating stuff.
+I am a junior student at University of Illinois Urbana-Champaign major (UIUC) in Computer Science & Statistics. Feel free to connect.
 
 <div align="center">
   <picture>
