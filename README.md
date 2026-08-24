@@ -20,7 +20,7 @@ I am a junior student at University of Illinois Urbana-Champaign (UIUC) in Compu
 
 
 <p align="center">
-  <a href="mailto:toyiyu1030@gmail.com"><img src="https://img.shields.io/badge/Email-toyiyu1030%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:yiyuc5@illinois.edu"><img src="https://img.shields.io/badge/Email-toyiyu1030%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://linkedin.com/in/yiyu-chen-here"><img src="https://img.shields.io/badge/LinkedIn-Yiyu%20Chen-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/LeonChen7"><img src="https://img.shields.io/badge/GitHub-LeonChen7-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
