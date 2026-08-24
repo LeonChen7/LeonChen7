@@ -8,7 +8,7 @@
 </p>
 
 # About me
-I am a junior student at University of Illinois Urbana-Champaign major (UIUC) in Computer Science & Statistics. Feel free to connect.
+I am a junior student at University of Illinois Urbana-Champaign (UIUC) in Computer Science & Statistics. Feel free to connect.
 
 <div align="center">
   <picture>
